@@ -1,0 +1,77 @@
+# **Relatorios diarios**
+
+# *Repertório da primeira aula* 
+
+Relato-vos que na primeira aula do dia 17/06/2024 foi dada na sala do senai uma aula introdutória do curso.Deixando claro os objetivos do curso e acolhendo os alunos, além de explicar regras sobre o mesmo para os estudantes do **curso tecnico Phyton**.
+
+    Também nos foi mostrado os responsáveis pela direção e o instrutor do curso 
+
+# *Repertório da segunda aula*
+
+ No dia 18/06/2024 nos foi apresentado o conteúdo inicial como:
+
+Hardware: tudo que posso tocar
+
+Software: aplicação (algo que não se pode tocar)
+
+O.S: sistema operacional, automatização do processo. Manipulação dos sistemas de hardware.
+
+Kernel: Núcleo do sistema operacional (tradução). 
+
+Plug in play: conectar e funcionar rápido
+
+Drive: plugar algo desconhecido no seu kernel 
+
+Biblioteca de funções padrão: DDL. 
+
+Shell: ( interpret)tela preta, C.M.D, capacidade de interagir e/ou comandar  o hardware 
+
+Interface: meio de comunicação 
+
+Extensão: identificador do formato 
+
+Mark Down: é uma linguagem de marcação de texto e .MD é a extensão que representa esse tipo de arquivo. 
+
+um exemplo do conteúdo dado na aula:
+
+{imagem primeira aula}(![alt text](image.png)) 
+
+
+
+# *Relatório da terceira aula*
+
+No dia 19/06/2024 nos foi desafiado a práticar o que nos foi ensinado( mesmo quem não veio, que é o meu caso. Mas estou aqui!!)
+
+# *Relatório da quarta aula*
+
+No dia 20/06/2024 estou aqui fazendo uma atividade "atrasada" para entregar, além da boa conversa para entreter e dinamizar as aulas.
+
+conteúdos ensinados na dinamica:
+
+Versionamento:criar versões, que futuramente se possa escolher 
+
+Git: é um software usado como ferramenta responsavel por criar diversas versões do sistema.É um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+
+mkdir (nome da sua nova pasta): criação de uma nova pasta 
+
+cd (nome da pasta): entar na pasta 
+
+code .: é para entrar com a pasta no vscode
+
+git --version: ver se seu computador tem alguma versão
+
+git status: ver a situação do seu arquivo 
+
+git add: prepara o arquivo criar versóes do seu arquivo
+
+git commit -m "commit inicial": primeira versão do arquivo 
+
+git init: deixar verde no vscode 
+
+git log: mostra o usuário e email do arquivo 
+
+git config --global user.name/email: colocar o usuario e eamil.
+
+comandos básicos 
+
+**Além das atividades acima, como opinião pessoal,acho que as aulas são bem produtivas e interessantes**
