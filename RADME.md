@@ -1,6 +1,6 @@
 # *Curso Pyton*
 
-*Repoditório feito para desenvolvermos tudo que aprenderemos em sala sobre o curso Pyton e utilizar para estudo* 
+*Repositório feito para desenvolvermos tudo que aprenderemos em sala sobre o curso Pyton e utilizar para estudo* 
 
 |#| assunto | link | 
 |-|-|-|
